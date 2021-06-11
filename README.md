@@ -1,4 +1,4 @@
-#Hi! im Saúl
+Hi! im Saúl
 Im a first year computer engineering student trying to familiarize with github. 
 I'm interested in furthening my knoledge of coding. Right know im really invested into Java and Pyhton. 
 If you have any util or interesting information about coding, or any useful content that could help through my 
